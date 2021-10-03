@@ -107,7 +107,7 @@ For professional projects, I'd like to work on:
 - Projects that involve a new tech stack I have yet to grapple with much.
 - Projects that see a rapid turnover of user stories to deployment but that also involve a good amount of testing wherever practically possible. 
 
-I'd love to work in a role focused on AI eventually but in terms of data science and ML, it's outside my current scope of understanding. I'm also fascianted by  the change we are seeing in money and how we define it, transport it, and store it, as for the first time in history, tech seems to be dictating what money will become.
+I'd love to work in a role focused on AI eventually but in terms of data science and ML, it's outside my current scope of understanding. I'm also fascianted by the change we are seeing in money and how we define it, transport it, and store it, as for the first time in history, tech seems to be dictating what money will become.
 
 ## Personal Interests
 I love ideas, concepts, lateral thinking problems, researching speculative technologies, and writing dystopian fiction. Playing cards, Go. I love Super Cities. I run and take long walks with my dog, where I often find some of my best solutions to problems bubble up. My daughter and I can build anything out of Play-Doh now.
