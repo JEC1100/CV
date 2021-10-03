@@ -90,13 +90,13 @@ Focusing on
 * Vice President of Optics Society.
 
 ## Proudest Achievements
-  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together.
-  - Being accepted on to Working Title Films coveted "Action Internship Programme".
+  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final team project, Key-J, together.
+  - Being accepted on to Working Title Films coveted "Action Internship Program".
   - Being a proactive self-led learner in all that I do in life.
   - Being a loving father to my wonderful little daughter.
 
 ## What I'm working on
--	I am currently consolidating my learning at Makers by addressing every course material a second time around. I'm also building a Contacts App in Rails, a React and JavaScript Web App Planner. I loved using these stacks and working in teams the most at Makers but would like more personal exposure to these technonologies now 
+-	I am currently consolidating my learning at Makers by addressing every course material a second time around. I'm also building a Contacts App in Rails, and a React and JavaScript Web App Planner. I loved using these stacks and working in teams the most at Makers but would like more personal exposure to these technonologies now 
 
 ## What I'd like to work on
 For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird and early time once per week to try to book your slot. Swimming/golf/zoo tickets/gymnastics.
