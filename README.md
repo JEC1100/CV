@@ -112,4 +112,8 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
 I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction.
 . I take long walks with my dog, Ernest. The best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
 
+## Where to find me
+Beautiful Newcastle, North Yorkshire, or any of the following:
+[Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
+
 
