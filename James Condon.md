@@ -98,8 +98,8 @@ Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 For personal projects, first, a generic booking bot that removes the need to log on to a website at a weird, early, time once a week to try to book a slot for swimming/golf/zoo tickets/gymnastics etc. Second: A buddy system connecting a network of women to reach out to each other for help whenever they feel unsafe.
 
 For professional projects, I'd like to work on:
-- Projects that involve a new tech stack I have yet to grapple with much.
-- Projects that see a rapid turnover of user stories to deployment but that also involve a good amount of testing wherever practically possible. 
+- Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
+- Projects that see a rapid turnover of user stories to deployment and involve a good amount of testing where possible.
 
 I'd love to work in a role focused on AI eventually but in terms of data science and ML, it's outside my current scope of understanding. I'm also fascianted by  the change we are seeing in money and how we define it, transport it, and store it, as for the first time in history, tech seems to be dictating what money will become.
 
