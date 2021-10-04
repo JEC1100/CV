@@ -14,4 +14,6 @@ I'm a big fan of speaking to someone to solve an issue faster. I often find prob
 Genuine empathy—the ability to be the person you talk to, the user whose problem you solve— is vital in making any connection real.
 - **Organised**:
 Organised is a state - rather than an empty to-do list - which keeps me primed to give my all to the most pressing task when the winds change.
+- **Curious**:
+My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
 
