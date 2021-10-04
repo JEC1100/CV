@@ -34,3 +34,7 @@ Your test progression made complete logical sense. You used TDD to make incremen
 ```
 Your tests were behaviour-based, client-oriented, with acceptance criteria properly encoded in the algorithm.
 ``` 
+```
+You are very fluent with Ruby and RSpec syntax and language constructs.
+```
+
