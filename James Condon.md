@@ -46,7 +46,7 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 | **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
 | **[Acebook](https://github.com/JEC1100/acebook-danger-noodles)**| A large group project (11 people) to develop a Facebook-like social media platform. | 2 weeks | Ruby-On-Rails, JavaScript, HTML, CSS, Bootstrap, Devise, Active Storage, PostgreSQL, Capybara, RSpec, Heroku |
 | **[MakersBnB](https://github.com/JEC1100/makers-bnb)**| A 5 person web project to build an Airbnb clone ground up. | 1 week | Ruby, ERB, CSS, Sinatra, PostgreSQL, BCrypt, Capybara, RSpec, Rubocop, Simplecov|
-| **[Note Keeper](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
+| **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
 | **[Bank Tech Test](https://github.com/JEC1100/bank-tech-test)**| A command-line app that lets you manage a bank account.| two days | Ruby, RSpec, Rubocop |
 | **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 1 day | Ruby, RSpec, Rubocop |
 ## Education
@@ -110,7 +110,7 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, numbers, lateral thinking problems, researching speculative technology, and writing dystopian fiction. I take long walks with my dog, Ernest, finding some of my best solutions to issues surface then. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, numbers, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest, finding some of my best solutions to issues surface then. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
