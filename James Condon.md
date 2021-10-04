@@ -55,7 +55,7 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 * Currently being instructed on different topics, including AWS deployment.
 * Following a training period, I will coach disadvantaged newcomers to code.
 
-### Makers academy (May 2021 - current)
+### Makers academy (May 2021 - present)
 A developmental bootcamp, focusing on
 - Agile methodologies
 - OOP
@@ -110,7 +110,7 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, numbers, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest, finding some of my best solutions to issues surface then. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, and writing dystopian fiction. I take long walks with my dog, Ernest, finding some of my best solutions to issues surface then. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
