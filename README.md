@@ -110,3 +110,6 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   
  ## Personal Interests
 I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction.
+. I take long walks with my dog, Ernest. The best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
+
+
