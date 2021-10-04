@@ -18,6 +18,7 @@ Organised is a state - rather than an empty to-do list - which keeps me primed t
 My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
 - **Pragmatic**:
 I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
+
 A third-party reviewer recently made the observations below about how I coded during a live tech test:
 ```
 You have clarified the requirements well and also asked good questions about some of the finer details. 
@@ -87,8 +88,8 @@ Volunteer Coach.
 Qualified Optician. 
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
 Remote Researcher.
-* Working Title Films Headquarters, London (May 2008- Jul 2009):
-Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
+* Working Title Films HQ, London (May 2008- Jul 2009):
+Graduate “Action” Intern (one of two selected from 2000 applicants).
 
 ## What I'm working on
 -	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to gain more exposure to these two stacks. I’m also taking a deeper dive into JavaScript.
@@ -100,22 +101,19 @@ For professional projects, I'd like to work on:
 - Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
 - Projects that see a rapid turnover of user stories to deployment and involve a good amount of testing where possible.
 
-I'd love to work in a role focused on AI eventually but that’s out of my current scope. I'm also fascinated by the change we’re seeing in money: how we define it, transport, and store it. For the first time, tech seems to be dictating what form money will take.
+I'd love to work in a role focused on AI eventually but that’s outside my current abilty. I'm fascinated by the change we’re seeing in money: how we define, transport, and store it. Not for the first time, technology seems to be dictating what form money will take.
 
 ## Proudest Achievements
-  - Completing Maker's Course, London-based software Bootcamp, and together presenting our final engineering project, Key-J.
+  - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
   - Being accepted on to Working Title Films coveted "Action Internship Program".
   - Being a proactive self-led learner in all that I do in life.
   - Being a loving father to my wonderful little daughter.
   
  ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction.
-. I take long walks with my dog, Ernest. The best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. My best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
-Beautiful Newcastle, North Yorkshire, or any of the following:
-[Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
+Beautiful Newcastle, North Yorkshire, or any of the following: [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
 
 ## Check out our app
-A team of four and I, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
-
+Five of us, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
