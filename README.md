@@ -96,4 +96,6 @@ Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 ## What I'd like to work on
 For personal projects, first, a generic booking bot that removes the need to log on to a website at a weird, early, time once a week to try to book a slot for swimming/golf/zoo tickets/gymnastics etc. Second: A buddy system connecting a network of women to reach out to each other for help whenever they feel unsafe.
 
+For professional projects, I'd like to work on:
+- Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
 
