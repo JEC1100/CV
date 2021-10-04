@@ -110,7 +110,7 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, where I find some of my best solutions to problems surface. My daughter and I can build virtually anything out of Play-Doh now.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, and writing dystopian fiction. I take long walks with my dog, where I find some of my best solutions to problems surface. My daughter and I can build virtually anything out of Play-Doh now.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
@@ -118,3 +118,4 @@ Beautiful Newcastle, North Yorkshire, or any of the following:
 
 ## Check out our app
 A team of four and I, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
+
