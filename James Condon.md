@@ -6,18 +6,19 @@ I'm James; a personable, energetic optician turned full-stack Junior Software De
 
 ## Skills
 - **Can quickly learn technologies**: 
-Makers taught me how to be a self-sufficient software engineer. I was pleasantly suprised how transferrable the fundamentals were to the new tech and language as we used; for example, my final project involved learning Node.js, Javascript, Express, CSS, Jest and Puppeteer. As a result I'm doing a solo project with similar tools.
-- **Languages**: Experience in Ruby, JavaScript, HTML, CSS, and C#. 
+Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest.
+- **Languages**:  
+Experience in Ruby, JavaScript, HTML, CSS. English.
 - **Excellent Communicator**: 
-I'm a big fan of speaking to someone face-to-face to solve an issue quicker and with less room for misinterpretation and assumptions made in messaging. I often find problems can be traced back to an assumption made in a written line of commnication which may have been avoided had there been a quick word in person or a zoom call.
+I'm a big fan of speaking to someone to solve an issue faster. I often find problems can be traced back to assumptions made in a written message which were maybe avoidable with a minute on a zoom call.
 - **Customer Focussed**:
-I find genuine empathy: the ability to be the person you're talking to, the user whose problem you're solving, is vital in making any connection real. 
+Genuine empathy—the ability to be the person you talk to, the user whose problem you solve— is vital in making any connection real.
 - **Organised**:
-Organised is a state - rather than a completed to-do list - which keeps me battle-ready, ready to take instruction, or give it when the winds change.
+Organised is a state - rather than an empty to-do list - which keeps me primed to give my all to the most pressing task when the winds change.
 - **Curious**:
-My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. This is because a solution often comes out of the leftfield of a different path you were open to exploring.
+My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
 - **Pragmatic**:
-I'm offence-proof when it comes to being moulded, taught, and critiqued, and I respect the feelings, emotions, and needs at all times.
+I’m my own strictest critic and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, taught, and critiqued.
 
 A thirdy-party reviewer recently said of my coding during a live tech test: 
 
