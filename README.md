@@ -25,3 +25,6 @@ You have clarified the requirements well and also asked good questions about som
 ```
 You were very vocal about your process and the decisions that you have made. 
 ```
+```
+The algorithm that you created made logical sense and was a good solution for this particular problem.
+```
