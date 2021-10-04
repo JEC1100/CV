@@ -74,10 +74,12 @@ Focusing on
 * Dissertation on Science Fiction and The Evolution of Technology on Film.
 * ### University of Manchester
 * BSc Optometry (2:1)
-* Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception 
+* Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception. 
 * Dissertation on Holography and The User Illusion.
 * Vice President of Optics Society.
 
 ## Experience
 * Makers Academy, London (Jun 2021 – Sept 2021):
 Trainee full-stack software developer.
+* Codebar, Edinburgh & Code Your Future, London (Sept 2021 - date): 
+Volunteer Coach.
