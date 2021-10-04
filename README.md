@@ -16,4 +16,7 @@ Genuine empathy—the ability to be the person you talk to, the user whose probl
 Organised is a state - rather than an empty to-do list - which keeps me primed to give my all to the most pressing task when the winds change.
 - **Curious**:
 My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
+- **Pragmatic**:
+I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
+
 
