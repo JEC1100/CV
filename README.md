@@ -5,7 +5,7 @@
 Hello there! I'm James, a passionate junior full-stack developer from Newcastle. 
 I love problem-solving and am very excited to find a great first role, incredibly eager to learn new tech stacks and languages-whilst making significant meaningful contributions to a product. 
 
-Three things really excite me: Possibility; Ideas; Connecting humans to their needs and to each other via technology.
+Three things really excite me. Possibility. Ideas. Connecting humans to their needs and to each other via technology.
 
 We are living through exhilarating times. User stories can be implemented at a faster pace than ever before. So much is possible.
 
@@ -26,7 +26,8 @@ Organised is a state - rather than a completed to-do list - which keeps me battl
 - **Curious**:
 My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. This is because a solution often comes out of the leftfield of a different path you were open to exploring.
 - **Pragmatic**:
-I'm offence-proof when it comes to being moulded, taught, and critiqued, and I respect the feelings, emotions, and needs at all times. 
+I'm offence-proof when it comes to being moulded, taught, and critiqued, and I respect the feelings, emotions, and needs at all times.
+
 A thirdy-party reviewer recently said of my coding during a live tech test: 
 
 ```
