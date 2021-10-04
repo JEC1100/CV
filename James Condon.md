@@ -119,5 +119,4 @@ Beautiful Newcastle, North Yorkshire, or any of the following:
 [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
 
 ## Here is a link to an app
-Myself and a team of five, designed, executed and deployed to Heroku. It's called Key-J. It is a tool for DJs to compare track compatibilty:
-https://key-j.herokuapp.com/
+A team of four and I, designed, executed, and deployed an app, which we called, Key-J. It’s a tool for DJs to compare track compatibility https://key-j.herokuapp.com/
