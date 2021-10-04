@@ -51,3 +51,6 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 ### Open University (Oct 2021 - present)
 • TGO88: Linux Essentials Extension Course
 
+### Codebar(Sept 2021  - present)
+* Currently being instructed on different topics, including AWS deployment.
+* Following a training period, I will coach disadvantaged newcomers to code.
