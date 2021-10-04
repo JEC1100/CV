@@ -51,35 +51,33 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 | **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 1 day | Ruby, RSpec, Rubocop |
 ## Education
 
-### Codebar(Sept '21  - present)
-Focusing on
+### Codebar(Sept 2021  - present)
 * Currently being instructed on different topics, including AWS deployment.
-* Instruction leads to my volunteer coaching disadvantaged code newcomers.
+* Following a training period, I will coach disadvantaged newcomers to code.
 
-### Makers academy (May '21 - current)
+### Makers academy (May 2021 - current)
 A developmental bootcamp, focusing on
 - Agile methodologies
 - OOP
 - Team & pair programming
 - TDD & BDD
 
-### Self Teaching Ruby Programming (Jan '21  - May '21)
+### Self-Teaching Ruby Programming & Other Languages (2020 - present)
 Focusing on
 * OOP, Classes
-* Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code.'
+* Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
 
-### University of York St John (Sept '05 - Sept' 08)
+### University of York St John (Sept 2005 - Sept 2008)
 * Film Production, BA (1st)
-* Won prize for the most industrious student in a 110-strong year group. 
-* Interned in bustling film production and development environments at Working Title Films and Big Talk.
-* Studied in New England, Film Produciton, Shooting on 16mm Film. Digital transfer for Editing on Avid.
-* Dissertation on Science Fiction and Evolution of Technology.
+* Won prize for the most industrious student in a 110-strong year group.
+* Interned in bustling company environments at Working Title and Big Talk.
+*  Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
+*  Dissertation on Science Fiction and The Evolution of Technology on Film.
 
 ### University of Manchester
-* BSc Optometry
-* 2:1
-* Modules in Neurophysiology, Further Maths, Philosophy, Human Perception 
-* Dissertation on Holography. 
+* BSc Optometry (2:1)
+* Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception 
+* Dissertation on Holography and The User Illusion.
 * Vice President of Optics Society.
 
 ## Experience
@@ -91,13 +89,7 @@ Qualified Optician.
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
 Remote Researcher.
 * Working Title Films HQ, London (May 2008- Jul 2009):
-Graduate “Action” Intern (one of two selected from 2000 applicants).
-
-## Proudest Achievements
-  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together.
-  - Being accepted on to Working Title Films coveted "Action Internship Programme".
-  - Being a proactive self-led learner in all that I do in life.
-  - Being a loving father to my wonderful little daughter.
+Graduate “Action” Intern (one of two selected from almost 2000 applicants).
 
 ## What I'm working on
 -	I am currently consolidating my learning at Makers by addressing every course material a second time around. I'm also building a Contacts App in Rails, a React and JavaScript Web App Planner. I loved using these stacks and working in teams the most at Makers but would like more personal exposure to these technonologies now 
@@ -112,6 +104,12 @@ For professional projects, I'd like to work on:
 - Projects that see a rapid turnover of user stories to deployment but that also involve a good amount of testing wherever practically possible. 
 
 I'd love to work in a role focused on AI eventually but in terms of data science and ML, it's outside my current scope of understanding. I'm also fascianted by  the change we are seeing in money and how we define it, transport it, and store it, as for the first time in history, tech seems to be dictating what money will become.
+
+## Proudest Achievements
+  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together as a team.
+  - Being accepted on to Working Title Films coveted "Action Internship Programme".
+  - Being a proactive self-led learner in all that I do in life.
+  - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
 I love ideas, concepts, lateral thinking problems, researching speculative technologies, and writing dystopian fiction. Playing cards, Go. I love Super Cities. I run and take long walks with my dog, where I often find some of my best solutions to problems bubble up. My daughter and I can build anything out of Play-Doh now.
