@@ -88,7 +88,7 @@ Trainee full-stack software developer.
 Qualified Optician. 
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
 Remote Researcher.
-* Working Title Films HQ, London (May 2008- Jul 2009):
+* Working Title Films Headquarters, London (May 2008- Jul 2009):
 Graduate “Action” Intern (one of two selected from almost 2000 applicants).
 
 ## What I'm working on
