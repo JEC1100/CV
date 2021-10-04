@@ -44,3 +44,4 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 | **[Acebook](https://github.com/JEC1100/acebook-danger-noodles)**| A large group project (11 people) to develop a Facebook-like social media platform. | 2 weeks | Ruby-On-Rails, JavaScript, HTML, CSS, Bootstrap, Devise, Active Storage, PostgreSQL, Capybara, RSpec, Heroku |
 | **[MakersBnB](https://github.com/JEC1100/makers-bnb)**| A 5 person web project to build an Airbnb clone ground up. | 1 week | Ruby, ERB, CSS, Sinatra, PostgreSQL, BCrypt, Capybara, RSpec, Rubocop, Simplecov|
 | **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
+| **[Bank Tech Test](https://github.com/JEC1100/bank-tech-test)**| A command-line app that lets you manage a bank account.| two days | Ruby, RSpec, Rubocop |
