@@ -3,14 +3,14 @@
 
 # Hello there! 👋
 Hello there! I'm James, a passionate junior full-stack developer from Newcastle. 
-I love problem-solving and am very excited to find a great first role to continue learning and make significant meaningful contributions to a product. 
+I love problem-solving and am very excited to find a great first role, incredibly eager to learn new tech stacks and languages-whilst making significant meaningful contributions to a product. 
 
-Three things really excite me. Possibility. Ideas. Connecting humans to their needs and to each other via technology.
+Three things really excite me: Possibility; Ideas; Connecting humans to their needs and to each other via technology.
 
 We are living through exhilarating times. User stories can be implemented at a faster pace than ever before. So much is possible.
 
 My current focus is to spend every day upskilling as a developer.
-I'm excited about working on new tech stacks, with a busy team.
+I'm excited about working as part of a busy team, under pressure.
 
 
 ## Skills
