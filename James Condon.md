@@ -104,13 +104,13 @@ For professional projects, I'd like to work on:
 I'd love to work in a role focused on AI eventually but that’s out of my current scope. I'm also fascinated by the change we’re seeing in money: how we define it, transport, and store it. For the first time, tech seems to be dictating what form money will take.
 
 ## Proudest Achievements
-  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together as a team.
+  - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, as a team.
   - Being accepted on to Working Title Films coveted "Action Internship Programme".
   - Being a proactive self-led learner in all that I do in life.
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, where I find some of my best solutions to problems surface. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, where I find some of my best solutions to problems surface. My daughter and I can build almost anything out of Play-Doh now.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
