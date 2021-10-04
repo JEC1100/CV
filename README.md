@@ -87,4 +87,6 @@ Volunteer Coach.
 Qualified Optician. 
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
 Remote Researcher.
+* Working Title Films Headquarters, London (May 2008- Jul 2009):
+Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 
