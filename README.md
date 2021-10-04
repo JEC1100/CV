@@ -105,5 +105,6 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
 ## Proudest Achievements
   - Completing Maker's Course, London-based software Bootcamp, and together presenting our final engineering project III, Key-J.
   - Being accepted on to Working Title Films coveted "Action Internship Program".
-  -   - Being a proactive self-led learner in all that I do in life.
+  - Being a proactive self-led learner in all that I do in life.
+  - Being a loving father to my wonderful little daughter.
 
