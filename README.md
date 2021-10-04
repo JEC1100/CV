@@ -12,3 +12,6 @@ Experience in Ruby, JavaScript, HTML, CSS. English.
 I'm a big fan of speaking to someone to solve an issue faster. I often find problems can be traced back to assumptions made in a written message which were maybe avoidable with a minute on a zoom call.
 - **Customer Focussed**:
 Genuine empathy—the ability to be the person you talk to, the user whose problem you solve— is vital in making any connection real.
+- **Organised**:
+Organised is a state - rather than an empty to-do list - which keeps me primed to give my all to the most pressing task when the winds change.
+
