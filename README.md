@@ -55,7 +55,7 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 * Currently being instructed on different topics, including AWS deployment.
 * Following a training period, I will coach disadvantaged newcomers to code.
 
-### Makers (Jun 2021 - Sept 2021)
+### Makers Academy (Jun 2021 - Sept 2021)
 A developmental bootcamp, focusing on
 - Agile methodologies
 - OOP
