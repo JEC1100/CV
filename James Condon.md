@@ -92,7 +92,7 @@ Remote Researcher.
 Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 
 ## What I'm working on
--	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to get more personal exposure to these different stacks. I’m also taking a deeper dive into JavaScript.
+-	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to gain more exposure to these different stacks. I’m also taking a deeper dive into JavaScript.
 
 ## What I'd like to work on
 For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird and early time once per week to try to book your slot. Swimming/golf/zoo tickets/gymnastics.
