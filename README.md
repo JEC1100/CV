@@ -107,4 +107,6 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   - Being accepted on to Working Title Films coveted "Action Internship Program".
   - Being a proactive self-led learner in all that I do in life.
   - Being a loving father to my wonderful little daughter.
-
+  
+ ## Personal Interests
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction.
