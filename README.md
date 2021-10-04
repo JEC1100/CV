@@ -8,3 +8,5 @@ I'm James; a personable, energetic optician turned full-stack Junior Software De
 Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest.
 - **Languages**:  
 Experience in Ruby, JavaScript, HTML, CSS. English.
+- **Excellent Communicator**: 
+I'm a big fan of speaking to someone to solve an issue faster. I often find problems can be traced back to assumptions made in a written message which were maybe avoidable with a minute on a zoom call.
