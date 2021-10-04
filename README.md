@@ -37,4 +37,7 @@ Your tests were behaviour-based, client-oriented, with acceptance criteria prope
 ```
 You are very fluent with Ruby and RSpec syntax and language constructs.
 ```
+### Projects
+| Name                         | Description       | Development timeframe | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
 
