@@ -66,3 +66,9 @@ A developmental bootcamp, focusing on
 Focusing on
 * OOP, Classes
 * Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
+* ### University of York St John (Sept 2005 - Sept 2008)
+* Film Production, BA (1st)
+* Won prize for the most industrious student in a 110-strong year group.
+* Interned in bustling company environments at Working Title and Big Talk.
+* Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
+* Dissertation on Science Fiction and The Evolution of Technology on Film.
