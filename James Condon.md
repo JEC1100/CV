@@ -21,7 +21,6 @@ My curiosity manifests as a willingness to try different approaches to solve pro
 I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
 - **Feedback**:
 A third-party reviewer recently made the observations below about how I coded during a live tech test:
-
 ```
 You have clarified the requirements well and also asked good questions about some of the finer details.
 ```
@@ -51,11 +50,14 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 | **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 1 day | Ruby, RSpec, Rubocop |
 ## Education
 
+### Open University (Oct 2021 - present)
+• TGO88: Linux Essentials Extension Course
+
 ### Codebar(Sept 2021  - present)
 * Currently being instructed on different topics, including AWS deployment.
 * Following a training period, I will coach disadvantaged newcomers to code.
 
-### Makers academy (May 2021 - present)
+### Makers academy (Jun 2021 - Sept 2021)
 A developmental bootcamp, focusing on
 - Agile methodologies
 - OOP
@@ -81,9 +83,9 @@ Focusing on
 * Vice President of Optics Society.
 
 ## Experience
-* Makers Academy, London (June 2021 – October 2021):
+* Makers Academy, London (Jun 2021 – Sept 2021):
 Trainee full-stack software developer. 
-* Codebar, Edinburgh & Code Your Future, London (September 2021 - date): Volunteer Coach. 
+* Codebar, Edinburgh & Code Your Future, London (Sept 2021 - date): Volunteer Coach. 
 * Specsavers Optical Group, Guernsey (Jan 2011 - April 2021):
 Qualified Optician. 
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
@@ -118,4 +120,3 @@ Beautiful Newcastle, North Yorkshire, or any of the following:
 
 ## Check out our app
 A team of four and I, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
-
