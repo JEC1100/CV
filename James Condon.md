@@ -71,8 +71,8 @@ Focusing on
 * Film Production, BA (1st)
 * Won prize for the most industrious student in a 110-strong year group.
 * Interned in bustling company environments at Working Title and Big Talk.
-*  Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
-*  Dissertation on Science Fiction and The Evolution of Technology on Film.
+* Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
+* Dissertation on Science Fiction and The Evolution of Technology on Film.
 
 ### University of Manchester
 * BSc Optometry (2:1)
@@ -89,7 +89,7 @@ Qualified Optician.
 * Sony Music HQ, London (Sept 2009 - Jan 2011):
 Remote Researcher.
 * Working Title Films Headquarters, London (May 2008- Jul 2009):
-Graduate “Action” Intern (one of two selected from 2000 applicants).
+Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 
 ## What I'm working on
 -	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to get more personal exposure to these different stacks. I’m also taking a deeper dive into JavaScript.
