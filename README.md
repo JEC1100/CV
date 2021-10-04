@@ -6,3 +6,5 @@ I'm James; a personable, energetic optician turned full-stack Junior Software De
 ## Skills
 - **Can quickly learn technologies**: 
 Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest.
+- **Languages**:  
+Experience in Ruby, JavaScript, HTML, CSS. English.
