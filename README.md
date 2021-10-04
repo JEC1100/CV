@@ -40,4 +40,4 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 ### Projects
 | Name                         | Description       | Development timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-
+| **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
