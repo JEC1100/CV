@@ -72,3 +72,10 @@ Focusing on
 * Interned in bustling company environments at Working Title and Big Talk.
 * Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
 * Dissertation on Science Fiction and The Evolution of Technology on Film.
+* ### University of Manchester
+* BSc Optometry (2:1)
+* Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception 
+* Dissertation on Holography and The User Illusion.
+* Vice President of Optics Society.
+
+
