@@ -90,6 +90,17 @@ Focusing on
 * Dissertation on Holography. 
 * Vice President of Optics Society.
 
+## Experience
+* Makers Academy, London (June 2021 – October 2021):
+Trainee full-stack software developer. 
+* Codebar, Edinburgh & Code Your Future, London (September 2021 - date): Volunteer Coach. 
+* Specsavers Optical Group, Guernsey (Jan 2011 - April 2021):
+Qualified Optician. 
+* Sony Music HQ, London (Sept 2009 - Jan 2011):
+Remote Researcher.
+* Working Title Films HQ, London (May 2008- Jul 2009):
+Graduate “Action” Intern (one of two selected from 2000 applicants).
+
 ## Proudest Achievements
   - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together.
   - Being accepted on to Working Title Films coveted "Action Internship Programme".
