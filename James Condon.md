@@ -112,7 +112,7 @@ I'd love to work in a role focused on AI eventually but in terms of data science
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technologies, and writing dystopian fiction. Playing cards, Go. I love Super Cities. I run and take long walks with my dog, where I often find some of my best solutions to problems bubble up. My daughter and I can build anything out of Play-Doh now.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, where I find some of my best solutions to problems surface. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
