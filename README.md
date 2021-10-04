@@ -83,3 +83,6 @@ Focusing on
 Trainee full-stack software developer.
 * Codebar, Edinburgh & Code Your Future, London (Sept 2021 - date): 
 Volunteer Coach.
+* Specsavers Optical Group, Guernsey (Jan 2011 - April 2021):
+Qualified Optician. 
+
