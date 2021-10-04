@@ -101,7 +101,7 @@ For professional projects, I'd like to work on:
 - Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
 - Projects that see a rapid turnover of user stories to deployment and involve a good amount of testing where possible.
 
-I'd love to work in a role focused on AI eventually but in terms of data science and ML, it's outside my current scope of understanding. I'm also fascianted by  the change we are seeing in money and how we define it, transport it, and store it, as for the first time in history, tech seems to be dictating what money will become.
+I'd love to work in a role focused on AI eventually but that’s out of my current scope. I'm also fascinated by the change we’re seeing in money: how we define it, transport, and store it. For the first time, tech seems to be dictating what form money will take.
 
 ## Proudest Achievements
   - Completing Maker's Course, software Bootcamp based in London, and completing and presenting our final project, Key-J, together as a team.
