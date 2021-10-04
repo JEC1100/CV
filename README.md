@@ -46,3 +46,8 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 | **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
 | **[Bank Tech Test](https://github.com/JEC1100/bank-tech-test)**| A command-line app that lets you manage a bank account.| 2 days | Ruby, RSpec, Rubocop |
 | **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 2 days | Ruby, RSpec, Rubocop |
+## Education
+
+### Open University (Oct 2021 - present)
+• TGO88: Linux Essentials Extension Course
+
