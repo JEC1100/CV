@@ -31,3 +31,6 @@ The algorithm that you created made logical sense and was a good solution for th
 ```
 Your test progression made complete logical sense. You used TDD to make incremental transformations.
 ``` 
+```
+Your tests were behaviour-based, client-oriented, with acceptance criteria properly encoded in the algorithm.
+``` 
