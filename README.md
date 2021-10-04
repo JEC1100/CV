@@ -90,3 +90,5 @@ Remote Researcher.
 * Working Title Films Headquarters, London (May 2008- Jul 2009):
 Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 
+## What I'm working on
+-	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to gain more exposure to these two stacks. I’m also taking a deeper dive into JavaScript.
