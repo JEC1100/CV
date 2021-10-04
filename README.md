@@ -22,3 +22,6 @@ A third-party reviewer recently made the observations below about how I coded du
 ```
 You have clarified the requirements well and also asked good questions about some of the finer 
 ```
+```
+You were very vocal about your process and the decisions that you have made. 
+```
