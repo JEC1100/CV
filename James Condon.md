@@ -95,9 +95,7 @@ Graduate “Action” Intern (1 of 2 selected from 2000 applicants).
 -	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to gain more exposure to these two stacks. I’m also taking a deeper dive into JavaScript.
 
 ## What I'd like to work on
-For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird and early time once per week to try to book your slot. Swimming/golf/zoo tickets/gymnastics.
-and, secondly:
-A buddy system that connects a network of women to reach out to another pair of buddies for help should they ever feel unsafe.
+For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird, early, time once a week to try to book a slot for e.g., swimming/golf/zoo tickets/gymnastics. Second: A buddy system connecting a network of women to reach out to each other for help whenever they feel unsafe.
 
 For professional projects, I'd like to work on:
 - Projects that involve a new tech stack I have yet to grapple with much.
