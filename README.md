@@ -85,4 +85,6 @@ Trainee full-stack software developer.
 Volunteer Coach.
 * Specsavers Optical Group, Guernsey (Jan 2011 - April 2021):
 Qualified Optician. 
+* Sony Music HQ, London (Sept 2009 - Jan 2011):
+Remote Researcher.
 
