@@ -78,4 +78,6 @@ Focusing on
 * Dissertation on Holography and The User Illusion.
 * Vice President of Optics Society.
 
-
+## Experience
+* Makers Academy, London (Jun 2021 – Sept 2021):
+Trainee full-stack software developer.
