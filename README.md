@@ -101,7 +101,7 @@ For professional projects, I'd like to work on:
 - Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
 - Projects that see a rapid turnover of user stories to deployment and involve a good amount of testing where possible.
 
-I'd love to work in a role focused on AI eventually but that’s outside my current abilty. I'm fascinated by the change we’re seeing in money: how we define, transport, and store it. Not for the first time, technology seems to be dictating what form money will take.
+I'd love to work in a role focused on AI eventually but that’s outside my current abilty. I'm fascinated by the change we’re seeing in money: how we define, transport, and store it. Not for the first time, tech appears to be dictating what form money will take.
 
 ## Proudest Achievements
   - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
@@ -110,10 +110,10 @@ I'd love to work in a role focused on AI eventually but that’s outside my curr
   - Being a loving father to my wonderful little daughter.
   
  ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. My best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. Solutions to issues often surface on or after a walk. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
-Beautiful Newcastle, North Yorkshire, or any of the following: [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
+Beautiful Newcastle, North Yorkshire, or at the following: [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
 
 ## Check out our app
 Five of us, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
