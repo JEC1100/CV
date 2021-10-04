@@ -54,3 +54,10 @@ You are very fluent with Ruby and RSpec syntax and language constructs.
 ### Codebar(Sept 2021  - present)
 * Currently being instructed on different topics, including AWS deployment.
 * Following a training period, I will coach disadvantaged newcomers to code.
+
+### Makers academy (Jun 2021 - Sept 2021)
+A developmental bootcamp, focusing on
+- Agile methodologies
+- OOP
+- Team & pair programming
+- TDD & BDD
