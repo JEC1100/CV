@@ -110,7 +110,7 @@ I'd love to work in a role focused on AI eventually but that’s out of my curre
   - Being a loving father to my wonderful little daughter.
 
 ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, and writing dystopian fiction. I take long walks with my dog, Ernest, finding some of my best solutions to issues surface then. My daughter and I can build anything out of Play-Doh.
+I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. The best solutions to issues surface on or after a walk. My daughter and I can build anything out of Play-Doh.
 
 ## Where to find me
 Beautiful Newcastle, North Yorkshire, or any of the following:
