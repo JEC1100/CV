@@ -61,3 +61,8 @@ A developmental bootcamp, focusing on
 - OOP
 - Team & pair programming
 - TDD & BDD
+
+### Self-Teaching Ruby Programming & Other Languages (2020 - present)
+Focusing on
+* OOP, Classes
+* Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
