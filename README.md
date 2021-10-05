@@ -19,26 +19,6 @@ Organised is a state - rather than an empty to-do list - which keeps me primed t
 My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
 - **Pragmatic**:
 I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
-
-A third-party reviewer recently made the observations below about how I coded during a live tech test:
-```
-You have clarified the requirements well and also asked good questions about some of the finer details. 
-```
-```
-You were very vocal about your process and the decisions that you have made. 
-```
-```
-The algorithm that you created made logical sense and was a good solution for this particular problem.
-```
-```
-Your test progression made complete logical sense. You used TDD to make incremental transformations.
-``` 
-```
-Your tests were behaviour-based, client-oriented, with acceptance criteria properly encoded in the algorithm.
-``` 
-```
-You are very fluent with Ruby and RSpec syntax and language constructs.
-```
 ### Projects
 | Name                         | Description       | Development timeframe | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
