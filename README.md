@@ -1,5 +1,6 @@
+You'll find me at [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | Beautiful Newcastle, or North Yorkshire.
 ## Contents
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Where to find me](#where-to-find-me) | [Check out our app](#check-out-our-app) | 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [What I'd like to work on](what-id-like-to-work-on) | [Personal Interests](#personal-interests) | [Check out our app](#check-out-our-app)
 # Hello there! 👋
 I'm James, a personable, energetic optician turned full-stack Junior Software Developer seeking a back-end-centric role at an agile company. After graduating from Manchester University with a BSc in Optics, I graduated from York St John University with a degree in the mechanics of Film Production. I love science, and I love ideas. So I started to read around programming while teaching myself to create code via SoloLearn, Codecademy, YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
 
@@ -111,9 +112,6 @@ I'd love to work in a role focused on AI eventually but that’s outside my curr
   
  ## Personal Interests
 I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. Solutions to issues often surface on or after a walk. My daughter and I can build anything out of Play-Doh.
-
-## Where to find me
-Beautiful Newcastle, North Yorkshire, or at the following: [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon)
 
 ## Check out our app
 Five of us, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
