@@ -6,7 +6,7 @@ I'm James, a personable, energetic optician turned full-stack Junior Software De
 ### Projects
 | Name                         | Description/Aimed at       | Development timeframe | Tech/tools        |  Discovery/Applied learning  |
 | ---------------------------- | ----------------- | ----------------- | ----------------- | ------------------------- |
-| **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. A tool for DJs to compare track compatibility or music enthusiasts  | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
+| **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. A tool for DJs or enthusiasts to compare track compatibility  | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
 | **[Acebook](https://github.com/JEC1100/acebook-danger-noodles)**| A large group project (11 people) to develop a Facebook-like social media platform. A platfrom indivduals to socailly connect to each others' profile | 2 weeks | Ruby-On-Rails, JavaScript, HTML, CSS, Bootstrap, Devise, Active Storage, PostgreSQL, Capybara, RSpec, Heroku |
 | **[MakersBnB](https://github.com/JEC1100/makers-bnb)**| A 5 person web project to build an Airbnb clone ground up. For anyone to rent out of book a room or property | 1 week | Ruby, ERB, CSS, Sinatra, PostgreSQL, BCrypt, Capybara, RSpec, Rubocop, Simplecov|
 | **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested. For minimalist notekeepers | 1 week | JavaScript, HTML, CSS 
@@ -14,7 +14,7 @@ I'm James, a personable, energetic optician turned full-stack Junior Software De
 | **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent. For anyone wanting to sign into a webpage to play a game of RPS | 2 days | Ruby, RSpec, Rubocop |
 ## Skills
 - **Can quickly learn technologies**: 
-Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest.
+Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest. For example, when translating my Maker's Ruby Airport challenge to JS. 
 - **Languages**:  
 Experience in Ruby, JavaScript, HTML, CSS. English.
 - **Excellent Communicator**: 
