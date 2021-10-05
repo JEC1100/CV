@@ -95,15 +95,6 @@ Graduate “Action” Intern (one of two selected from 2000 applicants).
 ## What I'm working on
 -	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails, and a JSX/React Web App Planner, to gain more exposure to these two stacks. I’m also taking a deeper dive into JavaScript.
 
-## What I'd like to work on
-For personal projects, first, a generic booking bot that removes the need to log on to a website at a weird, early, time once a week to try to book a slot for swimming/golf/zoo tickets/gymnastics etc. Second: A buddy system connecting a network of women to reach out to each other for help whenever they feel unsafe.
-
-For professional projects, I'd like to work on:
-- Projects that involve a new tech stack, niche tech, continuous integration, continuous deployment, databases, busy teams.
-- Projects that see a rapid turnover of user stories to deployment and involve a good amount of testing where possible.
-
-I'd love to work in a role focused on AI eventually but that’s outside my current abilty. I'm fascinated by the change we’re seeing in money: how we define, transport, and store it. Not for the first time, tech appears to be dictating what form money will take.
-
 ## Proudest Achievements
   - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
   - Being accepted on to Working Title Films coveted "Action Internship Program".
