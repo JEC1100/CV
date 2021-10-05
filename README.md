@@ -73,7 +73,7 @@ Focusing on
 * Vice President of Optics Society.
 
 ## What I'm working on
--	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails. I’m also taking a deeper dive into JavaScript by applying the principles instilled by Makers to convert Ruby challenges into JS ones.
+-	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails. I’m also taking a deeper dive into JavaScript by applying the principles instilled by Makers to convert Ruby challenges into JS ones. Here is a link to that project 
 
 ## Proudest Achievements
   - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
