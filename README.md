@@ -3,7 +3,15 @@ You'll find me at [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twi
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Proudest Achievements](#proudest-achievements) | [What I'm working on](#what-im-working-on) | [Personal Interests](#personal-interests) | [Our App](#our-app)
 # Hello there! 👋
 I'm James, a personable, energetic optician turned full-stack Junior Software Developer seeking a back-end-centric role at an agile company. After graduating from Manchester University with a BSc in Optics, I graduated from York St John University with a degree in the mechanics of Film Production. I love science, and I love ideas. So I started to read around programming while teaching myself to create code via SoloLearn, Codecademy, YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
-
+### Projects
+| Name                         | Description       | Development timeframe | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
+| **[Acebook](https://github.com/JEC1100/acebook-danger-noodles)**| A large group project (11 people) to develop a Facebook-like social media platform. | 2 weeks | Ruby-On-Rails, JavaScript, HTML, CSS, Bootstrap, Devise, Active Storage, PostgreSQL, Capybara, RSpec, Heroku |
+| **[MakersBnB](https://github.com/JEC1100/makers-bnb)**| A 5 person web project to build an Airbnb clone ground up. | 1 week | Ruby, ERB, CSS, Sinatra, PostgreSQL, BCrypt, Capybara, RSpec, Rubocop, Simplecov|
+| **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
+| **[Bank Tech Test](https://github.com/JEC1100/bank-tech-test)**| A command-line app that lets you manage a bank account.| 2 days | Ruby, RSpec, Rubocop |
+| **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 2 days | Ruby, RSpec, Rubocop |
 ## Skills
 - **Can quickly learn technologies**: 
 Makers taught me how to be a self-sufficient software engineer. I was thrilled to discover how transferrable fundamentals were to a new language or tech stacks, Node.js, JavaScript, Express, CSS, Jest.
@@ -19,15 +27,6 @@ Organised is a state - rather than an empty to-do list - which keeps me primed t
 My curiosity manifests as a willingness to try different approaches to solve programming problems or come at an idea. A solution often springs out of the leftfield from the number of different paths one is willing to explore.
 - **Pragmatic**:
 I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
-### Projects
-| Name                         | Description       | Development timeframe | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **[Key-J](https://github.com/jec1100/key-j)**| A 5 person web project that helps you compare the key in which two songs are performed. | 2 weeks | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku|
-| **[Acebook](https://github.com/JEC1100/acebook-danger-noodles)**| A large group project (11 people) to develop a Facebook-like social media platform. | 2 weeks | Ruby-On-Rails, JavaScript, HTML, CSS, Bootstrap, Devise, Active Storage, PostgreSQL, Capybara, RSpec, Heroku |
-| **[MakersBnB](https://github.com/JEC1100/makers-bnb)**| A 5 person web project to build an Airbnb clone ground up. | 1 week | Ruby, ERB, CSS, Sinatra, PostgreSQL, BCrypt, Capybara, RSpec, Rubocop, Simplecov|
-| **[Notes App](https://github.com/JEC1100/js-notes-app)**| A 4 person project to let you create and view notes. Written without (testing)frameworks, but still well-tested.| 1 week | JavaScript, HTML, CSS 
-| **[Bank Tech Test](https://github.com/JEC1100/bank-tech-test)**| A command-line app that lets you manage a bank account.| 2 days | Ruby, RSpec, Rubocop |
-| **[RPSChallenge](https://github.com/JEC1100/rock_paper_scissors)**| A web app that lets you sign in and play Rock Paper Scissors with a virtual opponent | 2 days | Ruby, RSpec, Rubocop |
 ## Education
 
 ### Open University (Oct 2021 - present)
