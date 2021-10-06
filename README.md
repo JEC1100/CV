@@ -26,18 +26,16 @@ My curiosity manifests as a willingness to try different approaches to solve pro
 I’m my own strictest critic, and I strive for improvement in all that I do. I’m offence-proof when it comes to being moulded, critiqued, and taught. All feedback is a gift: the gift of a lesson, especially when you might do things differently or better next time, as a direct consequence.
 
 ## Experience
-* Makers Academy, London (May 2021 – Oct 2021):
-Trainee full-stack software developer. Building full-stack software in teams by employing OOP, TDD, MVC, DDD, Ruby, RSpec, Rails, JavaScript, Jasmine, Node, React, PostgreSQL, deployment. 
-* Codebar, Edinburgh & Code Your Future, London (Sept 2021 - present): 
-Volunteer Coach, awaiting my first workshop to help make tech more accessible. I have enlisted to Teach Coding Fundamentals to Refugees and Disadvantaged People. I attended two workshops, covering AWS deployment.
-* Specsavers Optical Group, Guernsey (Jan 2011 - April 2021):
-Qualified Optician, covering joint-venture partnership companies nationwide. Served eye care and retail needs of large cities, small town-based companies.  
-* Sony Music HQ, London (Sept 2009 - Jan 2011):
-Remote Researcher, head hunted by Film Music Supervisor Nick Angel
-I combed Sony’s Catalogue for creative ideas, pitching these at weekly stand-ups. Ideas were met with great enthusiasm and passed on to A-List Producers. 
-* Working Title Films HQ, London (May 2008- Jul 2009):
-Graduate “Action” Intern (one of two selected from 2000 applicants)
-Communicating between movie development and production departments, managing diaries, meetings, schedules, keeping documentation up to date. 
+- **Makers Academy, London (May 2021 – Oct 2021)**:
+Trainee full-stack software developer - Building full-stack software in teams by employing OOP, TDD, MVC, DDD, Ruby, RSpec, Rails, JavaScript, Jasmine, Node, React, PostgreSQL, deployment. 
+- **Codebar, Edinburgh & Code Your Future, London (Sept 2021 - present)**:
+Volunteer Coach - I have enlisted to Teach Coding Fundamentals to Refugees and Disadvantaged People. Participated in their AWS deployment workshop.
+- **Specsavers Optical Group, Guernsey (Jan 2011 - April 2021)**:
+Qualified Optician - Covering joint-venture partnership companies nationwide. Served eye care and retail needs of large cities, small town-based companies.
+- **Sony Music HQ, London (Sept 2009 - Jan 2011)**:
+Remote Researcher - Headhunted by Film Music Supervisor Nick Angel. I combed Sony’s Catalogue for creative ideas, pitching these at bi-weekly stand-ups to A-List Producers.
+- **Working Title Films HQ, London (May 2008- Jul 2009)**:
+Graduate “Action” Intern (one of two selected from 2000 applicants) Communicating between movie development and production departments, managing diaries, meetings, schedules, keeping documentation up to date. 
 
 ## Education
 
@@ -59,12 +57,14 @@ A developmental bootcamp, focusing on
 Focusing on
 * OOP, Classes
 * Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
+
 ### University of York St John (Sept 2005 - Sept 2008)
 * Film Production, BA (1st)
 * Won prize for the most industrious student in a 110-strong year group.
 * Interned in bustling company environments at Working Title and Big Talk.
 * Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
 * Dissertation on Science Fiction and The Evolution of Technology on Film.
+
 ### University of Manchester
 * BSc Optometry (2:1)
 * Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception. 
@@ -72,5 +72,5 @@ Focusing on
 * Vice President of Optics Society.
   
  ## Personal Interests
-I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. Solutions to issues often surface on or after a walk. My daughter and I can build anything out of Play-Doh.
+I swim in the sea. I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest, when solutions to issues often surface. My daughter and I can build anything out of Play-Doh.
 
