@@ -1,4 +1,3 @@
-You'll find me at [Codewars]( https://www.codewars.com/users/JamesCondon) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | Beautiful Newcastle, or North Yorkshire.
 ## Contents
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) 
 # Hello there! 👋
@@ -73,4 +72,5 @@ Focusing on
   
  ## Personal Interests
 I swim in the sea. I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest, when solutions to issues often surface. My daughter and I can build anything out of Play-Doh.
+
 
