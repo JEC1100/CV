@@ -1,6 +1,6 @@
-You'll find me at [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | Beautiful Newcastle, or North Yorkshire.
+You'll find me at [Codewars]( https://www.codewars.com/users/JamesCondon) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | Beautiful Newcastle, or North Yorkshire.
 ## Contents
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [What I'm working on](#what-im-working-on) | [Proudest Achievements](#proudest-achievements) | [Personal Interests](#personal-interests) | [Our App](#our-app)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) 
 # Hello there! 👋
 I'm James, a personable, energetic optician turned full-stack Junior Software Developer seeking a full-stack role at an agile company. I did a degree in Optics then a degree in Film. I love science, and I love ideas. So I started to read around programming while teaching myself to create code via SoloLearn, Codecademy, YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
 ### Projects
@@ -71,28 +71,6 @@ Focusing on
 * Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception. 
 * Dissertation on Holography and The User Illusion.
 * Vice President of Optics Society.
-
-## What I'm working on
--	I am currently consolidating my learning at Makers by addressing every course material a second time around. I'm also building a React and JavaScript Web App Planner. I loved using these stacks and working in teams the most at Makers but would like more personal exposure to these technonologies now 
-
-## What I'd like to work on
-For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird and early time once per week to try to book your slot. Swimming/golf/zoo tickets/gymnastics.
-and, secondly:
-A buddy system that connects a network of women to reach out to another pair of buddies for help should they ever feel unsafe.
-
-For professional projects, I'd like to work on:
-- Projects that involve a new tech stack I have yet to grapple with much.
-- Projects that see a rapid turnover of user stories to deployment but that also involve a good amount of testing wherever practically possible. 
-
-## Proudest Achievements
-  - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
-  - Being accepted on to Working Title Films coveted "Action Internship Program".
-  - Being a proactive self-led learner in all that I do in life.
-  - Being a loving father to my wonderful little daughter.
   
  ## Personal Interests
 I love ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. Solutions to issues often surface on or after a walk. My daughter and I can build anything out of Play-Doh.
-
-## Our App
-Five of us, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
-
