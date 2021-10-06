@@ -73,7 +73,16 @@ Focusing on
 * Vice President of Optics Society.
 
 ## What I'm working on
--	I am currently consolidating my learning at Makers by addressing every course material a second time. I'm building a Contacts App in Rails. I’m also taking a deeper dive into JavaScript by applying the principles instilled by Makers to convert Ruby challenges into JS ones.
+-	I am currently consolidating my learning at Makers by addressing every course material a second time around. I'm also building a React and JavaScript Web App Planner. I loved using these stacks and working in teams the most at Makers but would like more personal exposure to these technonologies now 
+
+## What I'd like to work on
+For personal projects, I'd like to work on a generic booking bot that removes the need to log on to a website at a weird and early time once per week to try to book your slot. Swimming/golf/zoo tickets/gymnastics.
+and, secondly:
+A buddy system that connects a network of women to reach out to another pair of buddies for help should they ever feel unsafe.
+
+For professional projects, I'd like to work on:
+- Projects that involve a new tech stack I have yet to grapple with much.
+- Projects that see a rapid turnover of user stories to deployment but that also involve a good amount of testing wherever practically possible. 
 
 ## Proudest Achievements
   - Completing Maker's Course, London-based software Bootcamp. Presenting our final group engineering project, Key-J.
@@ -86,3 +95,4 @@ I love ideas, concepts, lateral thinking problems, researching speculative techn
 
 ## Our App
 Five of us, designed, executed, and deployed an app, which we called, KEY-J. A tool for DJs to compare track compatibility https://key-j.herokuapp.com/
+
