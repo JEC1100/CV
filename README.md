@@ -26,7 +26,7 @@ I’m my own strictest critic, and I strive for improvement in all that I do. I�
 
 ## Experience
 - **Makers Academy, London (May 2021 – Oct 2021)**:
-Trainee full-stack software developer - Building full-stack software in teams by employing OOP, TDD, MVC, DDD, Ruby, RSpec, Rails, JavaScript, Jasmine, Node, React, PostgreSQL, deployment. 
+Trainee full-stack software developer - Building full-stack software in teams employing OOP, TDD, MVC, DDD, Ruby, RSpec, Rails, JavaScript, Jasmine, Node, React, PostgreSQL, deployment. 
 - **Codebar, Edinburgh & Code Your Future, London (Sept 2021 - present)**:
 Volunteer Coach - I have enlisted to Teach Coding Fundamentals to Refugees and Disadvantaged People. Participated in their AWS deployment workshop.
 - **Specsavers Optical Group, Guernsey (Jan 2011 - April 2021)**:
