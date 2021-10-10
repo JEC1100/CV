@@ -45,12 +45,27 @@ Graduate “Action” Intern (one of two selected from 2000 applicants) Communic
 * Currently being instructed on different topics, including AWS deployment.
 * Following a training period, I will coach disadvantaged newcomers to code.
 
-### Makers Academy (Jun 2021 - Sept 2021)
-A developmental bootcamp, focusing on
-- Agile methodologies
-- OOP
-- Team & pair programming
-- TDD & BDD
+### Makers Academy, London (May 2021 - Oct 2021)
+A 16-week intensive coding bootcamp + 13-weeks mentoring a Maker afterwards
+
+Languages: Ruby, JavaScript, SQL, HTML/CSS
+
+Frameworks: Rails, RSpec, Jasmine, React
+
+DBMS: PostgreSQL
+
+* Clean code
+* Agile/XP values
+* Test Driven Development (TDD)
+* Object-oriented programming (OOP)
+* Model, View, Controller structure (MVC)
+* Project planning (MVP, modelling, wireframes, collaboration tools)
+* Self-directed learning
+* Pair programming (270+ hours)
+* Weekend challenges
+* Feedback culture
+* Holistic learning
+* Mentoring
 
 ### Self-Teaching Ruby Programming & Other Languages (2020 - present)
 Focusing on
