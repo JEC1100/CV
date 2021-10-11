@@ -43,7 +43,7 @@ Graduate “Action” Intern (one of two selected from 2000 applicants) Communic
 
 ## Education
 
-### Open University (Oct 2021 - present)
+### Open University (Sept 2021 - present)
 • TGO88: Linux Essentials Extension Course
 
 ### Codebar(Sept 2021  - present)
