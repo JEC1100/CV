@@ -2,7 +2,12 @@
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) 
 # Hello there! 👋
 I'm James, a personable, energetic optician turned full-stack Junior Software Developer seeking a full-stack role at an agile company. I did a degree in Optics then a degree in Film. I love science, and I love ideas. So I started to read around programming while teaching myself to create code via SoloLearn, Codecademy, YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
-### Projects
+
+## Languages & Tech
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
+
+### Project Highlights
 | Name                         | Prescription       | Tech/tools        |  Insight  |
 | ---------------------------- | ----------------- | ----------------- | ------------------------- |
 | **[Key-J](https://github.com/jec1100/key-j)**| A web project that compares the key in which two songs are performed. A tool for DJs or enthusiasts to compare track compatibility  | JavaScript, React, Node.js, Express, Jest, Puppeteer, Heroku| Teams work because their members are passionate about a shared, established goal |
@@ -88,4 +93,8 @@ Focusing on
  ## Personal Interests
 I play tennis, run, swim in the sea. I love games, board games, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
 
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jec1100/count.svg" />
+</p>
 
