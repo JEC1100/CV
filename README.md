@@ -94,7 +94,7 @@ Focusing on
 Music, film, basketball, judo, board games, cards, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction and feature film scripts. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
 
 ## On himself  
-Tripple-jabbed, breezy personality, drives like the wind. He is a go for a launch 🚀
+Tripple-jabbed, breezy personality, drives like the wind. He is "Go for launch" 🚀
 
 
 <!-- retro visitor counter -->
@@ -103,7 +103,7 @@ Tripple-jabbed, breezy personality, drives like the wind. He is a go for a launc
 </p>
 
 ## Where to find him
-At the following :point_right: 
+At any of the following :point_right: 
 :
 [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | [Discord]( https://discordapp.com/users/5228/) | [Reddit]( https://www.reddit.com/user/QuickEffect211)
 
