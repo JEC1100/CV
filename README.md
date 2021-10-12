@@ -51,7 +51,7 @@ I'm my own strictest critic, and I strive for improvement in all that I do. I'm 
 * Following a training period, I will coach disadvantaged newcomers to code.
 
 ### Makers Academy, London (May 2021 - Oct 2021)
-A 16-week intensive coding Bootcamp + 13-weeks mentoring a Maker afterwards
+A 16-week intensive coding Bootcamp + 13-weeks mentoring at Makers afterwards
 
 Languages: Ruby, JavaScript, SQL, HTML/CSS
 
