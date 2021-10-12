@@ -1,5 +1,5 @@
 ## Contents
-[Project Highlights](#project-highlights) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) 
+[Project Highlights](#project-highlights) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) | [Where To Find Me](#where-to-find-me) 
 # Hello there! 👋
 I'm James, a personable, energetic optician turned full-stack Junior Software Developer seeking a full-stack role at an agile company. I did a degree in Optics then a degree in Film. I love science, and I love ideas. So I started to read around programming while teaching myself to create code via SoloLearn, Codecademy, YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
 ## Languages & Tech
@@ -98,3 +98,9 @@ Music, film, basketball, judo, board games, cards, ideas, concepts, lateral thin
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jec1100/count.svg" />
 </p>
+
+## Where to find me
+At the following :point_right: 
+:
+[Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | [Discord]( https://discordapp.com/users/5228/) | [Reddit]( https://www.reddit.com/user/QuickEffect211)
+
