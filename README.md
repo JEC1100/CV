@@ -91,7 +91,7 @@ Focusing on
 * Vice President of Optics Society.
   
  ## Personal Interests
-I play tennis, run, swim in the sea. I love games, board games, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
+Music, film, baksetball, judo, board games, cards, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction and feature film screenplays. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
 
 
 <!-- retro visitor counter -->
