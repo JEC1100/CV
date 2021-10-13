@@ -70,7 +70,7 @@ I'm James; a personable, creative, energetic optician turned **Full-Stack Develo
 * Vice President of Optics Society.
 
  ## Personal Interests
-Films, Twin Peaks, board games, cards, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction and feature film scripts. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
+Films, Twin Peaks, board games, cards, ideas, concepts, lateral thinking problems, researching speculative technology, writing dystopian fiction and feature films. I take long walks with my dog, Ernest. My daughter and I can build anything out of Play-Doh.
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jec1100/count.svg" />
