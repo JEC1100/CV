@@ -1,7 +1,7 @@
 ## Contents
-[Project Highlights](#project-highlights) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) |  [Where To Find Him](#where-to-find-him) 
+[Project Highlights](#project-highlights) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Personal Interests](#personal-interests) |  [Where To Find Me](#where-to-find-me) 
 # Hello there! 👋
-I'm James. I'm a personable, creative, energetic optician turned **Full-Stack Developer** seeking a challenging role at an agile company. I did a degree in Optics then a degree in Film. I love science, and I love ideas. Inspired by my peers and the tech/start-up culture, I finally uncovered the fire in which to forge a permanent link between my creative and technical passions by making the switch to Software Engineering. I started reading about programming while teaching myself to create code via SoloLearn, Codecademy, and YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibility, and the self-revelation that I love working as part of a team.
+I'm James; a personable, creative, energetic optician turned Full-Stack Developer seeking a challenging role at an agile company. I did a degree in Optics then a degree in Film. I love science, and I love ideas. Inspired by my peers and the tech/start-up culture, I aimed to forge a link between my creative and technical passions by making the switch to Software Engineering. I started reading about programming while teaching myself to create code via SoloLearn, Codecademy, and YouTube tutorials. Finally, I began building things at Makers, an intensive four-month Bootcamp. I loved it. The sheer possibility of it all struck me: the opportunity to work in so many emerging, in some cases, yet-to-exist fields; its accessibilty, and the self-revelation that I love working as part of a team.
 ## Languages & Tech
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="jasmine" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
@@ -52,14 +52,18 @@ I'm James. I'm a personable, creative, energetic optician turned **Full-Stack De
 * Focusing on OOP, Classes
 * Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
 
-### University of York St John
+### York St John University
 * Film Production, BA (1st)
 * Won prize for the most industrious student in a 110-strong year group.
 * Interned in bustling company environments at Working Title and Big Talk.
 * Studied Film Making, Shooting Film. Digital transfer for Editing on Avid.
 * Dissertation on Science Fiction and The Evolution of Technology on Film.
 
-### University of Manchester
+### Keene State College
+* Screenwriting, Filmmaking & Editing (AAA)
+* New Hampshire / Course Extension / U.S. Exchange
+
+### Manchester University
 * BSc Optometry (2:1)
 * Modules in Neurophysiology, Physics, Further Maths, Philosophy, Human Perception. 
 * Dissertation on Holography and The User Illusion.
@@ -72,6 +76,6 @@ Films, Twin Peaks, board games, cards, ideas, concepts, lateral thinking problem
   <img src="https://profile-counter.glitch.me/jec1100/count.svg" />
 </p>
 
-## Where to find him
+## Where to find me
 At any of the following :point_right: :
 [Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | [Discord]( https://discordapp.com/users/5228/) | [Reddit]( https://www.reddit.com/user/QuickEffect211)
