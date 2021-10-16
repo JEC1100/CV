@@ -78,4 +78,4 @@ Films, Twin Peaks, board games, cards, ideas, concepts, lateral thinking problem
 
 ## Where to find me
 At any of the following :point_right: :
-[Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Leetcode]( https://leetcode.com/jamescondon/) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | [Discord]( https://discordapp.com/users/5228/) | [Reddit]( https://www.reddit.com/user/QuickEffect211)
+[Codewars]( https://www.codewars.com/users/JamesCondon) | [Twitter]( https://twitter.com/JamesEdwardCon4) | [Instagram]( https://www.instagram.com/jc_pixels/) | [LinkedIn]( https://uk.linkedin.com/in/jacondon) | [Stack overflow]( https://stackoverflow.com/users/16691374/james-condon) | [Discord]( https://discordapp.com/users/5228/) | [Reddit]( https://www.reddit.com/user/QuickEffect211)
