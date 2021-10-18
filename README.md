@@ -50,7 +50,7 @@ I'm James; a personable, creative, energetic optician turned **Full-Stack Develo
 
 ### Self-Teaching Ruby Programming & Other Languages
 * Focusing on OOP, Classes
-* Leetcode, Codecademy, Chris Pine's 'Learn Ruby', Uncle Bob's 'Clean Code'
+* Udemy, SoloLearn, Codecademy, Chris Pine 'Learn to Program', Uncle Bob's 'Clean Code'
 
 ### York St John University
 * Film Production, BA (1st)
